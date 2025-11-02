@@ -1,18 +1,13 @@
-### Hi there 👋
-![CheolwanPark's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cheolwan-Park&count_private=true&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheolwan-Park&layout=compact)
+### Hello there 👋
 
-<!--
-**Cheolwan-Park/Cheolwan-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer at [Hyperithm](https://www.hyperithm.com/);  
+B.S. in Computer Science, [Hanyang University](https://hanyang.ac.kr/web/eng);  
 
-Here are some ideas to get you started:
+💻 Working on: `AI`, `Agents`, `Python`, `TypeScript`  
+🛠️ Familiar with: `C++`, `Python`, `Rust`, `TypeScript`  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 Passionate about scalable AI infrastructure and Agentic systems.  
+  
+📫 Contact  
+**Email:** cheolwan.park552@gmail.com  
+**LinkedIn**: [cheolwanpark](https://www.linkedin.com/in/cheolwanpark)
